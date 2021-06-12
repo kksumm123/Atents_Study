@@ -1,0 +1,13 @@
+D:\VisualStudio2019\source\repos\Atents_Study\강사님머드게임타이핑\bin\Debug\netcoreapp3.1\강사님머드게임타이핑.exe
+D:\VisualStudio2019\source\repos\Atents_Study\강사님머드게임타이핑\bin\Debug\netcoreapp3.1\강사님머드게임타이핑.deps.json
+D:\VisualStudio2019\source\repos\Atents_Study\강사님머드게임타이핑\bin\Debug\netcoreapp3.1\강사님머드게임타이핑.runtimeconfig.json
+D:\VisualStudio2019\source\repos\Atents_Study\강사님머드게임타이핑\bin\Debug\netcoreapp3.1\강사님머드게임타이핑.runtimeconfig.dev.json
+D:\VisualStudio2019\source\repos\Atents_Study\강사님머드게임타이핑\bin\Debug\netcoreapp3.1\강사님머드게임타이핑.dll
+D:\VisualStudio2019\source\repos\Atents_Study\강사님머드게임타이핑\bin\Debug\netcoreapp3.1\강사님머드게임타이핑.pdb
+D:\VisualStudio2019\source\repos\Atents_Study\강사님머드게임타이핑\obj\Debug\netcoreapp3.1\강사님머드게임타이핑.csprojAssemblyReference.cache
+D:\VisualStudio2019\source\repos\Atents_Study\강사님머드게임타이핑\obj\Debug\netcoreapp3.1\강사님머드게임타이핑.AssemblyInfoInputs.cache
+D:\VisualStudio2019\source\repos\Atents_Study\강사님머드게임타이핑\obj\Debug\netcoreapp3.1\강사님머드게임타이핑.AssemblyInfo.cs
+D:\VisualStudio2019\source\repos\Atents_Study\강사님머드게임타이핑\obj\Debug\netcoreapp3.1\강사님머드게임타이핑.csproj.CoreCompileInputs.cache
+D:\VisualStudio2019\source\repos\Atents_Study\강사님머드게임타이핑\obj\Debug\netcoreapp3.1\강사님머드게임타이핑.dll
+D:\VisualStudio2019\source\repos\Atents_Study\강사님머드게임타이핑\obj\Debug\netcoreapp3.1\강사님머드게임타이핑.pdb
+D:\VisualStudio2019\source\repos\Atents_Study\강사님머드게임타이핑\obj\Debug\netcoreapp3.1\강사님머드게임타이핑.genruntimeconfig.cache

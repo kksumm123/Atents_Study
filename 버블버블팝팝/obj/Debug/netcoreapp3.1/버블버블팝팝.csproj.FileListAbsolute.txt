@@ -1,0 +1,13 @@
+D:\VisualStudio2019\source\repos\Atents_Study\버블버블팝팝\bin\Debug\netcoreapp3.1\버블버블팝팝.exe
+D:\VisualStudio2019\source\repos\Atents_Study\버블버블팝팝\bin\Debug\netcoreapp3.1\버블버블팝팝.deps.json
+D:\VisualStudio2019\source\repos\Atents_Study\버블버블팝팝\bin\Debug\netcoreapp3.1\버블버블팝팝.runtimeconfig.json
+D:\VisualStudio2019\source\repos\Atents_Study\버블버블팝팝\bin\Debug\netcoreapp3.1\버블버블팝팝.runtimeconfig.dev.json
+D:\VisualStudio2019\source\repos\Atents_Study\버블버블팝팝\bin\Debug\netcoreapp3.1\버블버블팝팝.dll
+D:\VisualStudio2019\source\repos\Atents_Study\버블버블팝팝\bin\Debug\netcoreapp3.1\버블버블팝팝.pdb
+D:\VisualStudio2019\source\repos\Atents_Study\버블버블팝팝\obj\Debug\netcoreapp3.1\버블버블팝팝.csprojAssemblyReference.cache
+D:\VisualStudio2019\source\repos\Atents_Study\버블버블팝팝\obj\Debug\netcoreapp3.1\버블버블팝팝.AssemblyInfoInputs.cache
+D:\VisualStudio2019\source\repos\Atents_Study\버블버블팝팝\obj\Debug\netcoreapp3.1\버블버블팝팝.AssemblyInfo.cs
+D:\VisualStudio2019\source\repos\Atents_Study\버블버블팝팝\obj\Debug\netcoreapp3.1\버블버블팝팝.csproj.CoreCompileInputs.cache
+D:\VisualStudio2019\source\repos\Atents_Study\버블버블팝팝\obj\Debug\netcoreapp3.1\버블버블팝팝.dll
+D:\VisualStudio2019\source\repos\Atents_Study\버블버블팝팝\obj\Debug\netcoreapp3.1\버블버블팝팝.pdb
+D:\VisualStudio2019\source\repos\Atents_Study\버블버블팝팝\obj\Debug\netcoreapp3.1\버블버블팝팝.genruntimeconfig.cache

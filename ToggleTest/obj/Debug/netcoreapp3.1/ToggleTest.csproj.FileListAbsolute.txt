@@ -1,0 +1,13 @@
+D:\VisualStudio2019\source\repos\Atents_Study\ToggleTest\bin\Debug\netcoreapp3.1\ToggleTest.exe
+D:\VisualStudio2019\source\repos\Atents_Study\ToggleTest\bin\Debug\netcoreapp3.1\ToggleTest.deps.json
+D:\VisualStudio2019\source\repos\Atents_Study\ToggleTest\bin\Debug\netcoreapp3.1\ToggleTest.runtimeconfig.json
+D:\VisualStudio2019\source\repos\Atents_Study\ToggleTest\bin\Debug\netcoreapp3.1\ToggleTest.runtimeconfig.dev.json
+D:\VisualStudio2019\source\repos\Atents_Study\ToggleTest\bin\Debug\netcoreapp3.1\ToggleTest.dll
+D:\VisualStudio2019\source\repos\Atents_Study\ToggleTest\bin\Debug\netcoreapp3.1\ToggleTest.pdb
+D:\VisualStudio2019\source\repos\Atents_Study\ToggleTest\obj\Debug\netcoreapp3.1\ToggleTest.csprojAssemblyReference.cache
+D:\VisualStudio2019\source\repos\Atents_Study\ToggleTest\obj\Debug\netcoreapp3.1\ToggleTest.AssemblyInfoInputs.cache
+D:\VisualStudio2019\source\repos\Atents_Study\ToggleTest\obj\Debug\netcoreapp3.1\ToggleTest.AssemblyInfo.cs
+D:\VisualStudio2019\source\repos\Atents_Study\ToggleTest\obj\Debug\netcoreapp3.1\ToggleTest.csproj.CoreCompileInputs.cache
+D:\VisualStudio2019\source\repos\Atents_Study\ToggleTest\obj\Debug\netcoreapp3.1\ToggleTest.dll
+D:\VisualStudio2019\source\repos\Atents_Study\ToggleTest\obj\Debug\netcoreapp3.1\ToggleTest.pdb
+D:\VisualStudio2019\source\repos\Atents_Study\ToggleTest\obj\Debug\netcoreapp3.1\ToggleTest.genruntimeconfig.cache

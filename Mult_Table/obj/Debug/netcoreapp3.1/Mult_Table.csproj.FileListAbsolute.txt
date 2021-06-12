@@ -1,0 +1,13 @@
+D:\VisualStudio2019\source\repos\Atents_Study\Mult_Table\bin\Debug\netcoreapp3.1\Mult_Table.exe
+D:\VisualStudio2019\source\repos\Atents_Study\Mult_Table\bin\Debug\netcoreapp3.1\Mult_Table.deps.json
+D:\VisualStudio2019\source\repos\Atents_Study\Mult_Table\bin\Debug\netcoreapp3.1\Mult_Table.runtimeconfig.json
+D:\VisualStudio2019\source\repos\Atents_Study\Mult_Table\bin\Debug\netcoreapp3.1\Mult_Table.runtimeconfig.dev.json
+D:\VisualStudio2019\source\repos\Atents_Study\Mult_Table\bin\Debug\netcoreapp3.1\Mult_Table.dll
+D:\VisualStudio2019\source\repos\Atents_Study\Mult_Table\bin\Debug\netcoreapp3.1\Mult_Table.pdb
+D:\VisualStudio2019\source\repos\Atents_Study\Mult_Table\obj\Debug\netcoreapp3.1\Mult_Table.csprojAssemblyReference.cache
+D:\VisualStudio2019\source\repos\Atents_Study\Mult_Table\obj\Debug\netcoreapp3.1\Mult_Table.AssemblyInfoInputs.cache
+D:\VisualStudio2019\source\repos\Atents_Study\Mult_Table\obj\Debug\netcoreapp3.1\Mult_Table.AssemblyInfo.cs
+D:\VisualStudio2019\source\repos\Atents_Study\Mult_Table\obj\Debug\netcoreapp3.1\Mult_Table.csproj.CoreCompileInputs.cache
+D:\VisualStudio2019\source\repos\Atents_Study\Mult_Table\obj\Debug\netcoreapp3.1\Mult_Table.dll
+D:\VisualStudio2019\source\repos\Atents_Study\Mult_Table\obj\Debug\netcoreapp3.1\Mult_Table.pdb
+D:\VisualStudio2019\source\repos\Atents_Study\Mult_Table\obj\Debug\netcoreapp3.1\Mult_Table.genruntimeconfig.cache
