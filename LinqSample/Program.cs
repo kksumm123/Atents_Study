@@ -48,6 +48,44 @@ namespace LinqSample
                 .Select(x => $"the score is {x}");
             #endregion
 
+            #region Sample 4
+            // 샘플4 먼지 못봄...
+            #endregion
+
+
+            #region Sample 5
+            List<int> numbers = new List<int>() { 5, 4, 1, 3, 9, 8, 6, 7, 2, 0 };
+            IEnumerable<int> filteringQuery =
+                from num in numbers
+                where num < 3 || num > 7
+                select num;
+
+            filteringQuery = numbers.Where(x => x < 3 || x > 7);
+            #endregion
+
+            #region Sample 6
+            string[] groupingQuery =
+                { "carrots", "cabbage", "broccoli", "beans", "barley" };
+            IEnumerable<IGrouping<char, string>> queryFoodGroups =
+                from item in groupingQuery
+                group item by item[0];
+
+            var result = groupingQuery.GroupBy(x => x[0]);
+            #endregion
+            #region Sample
+            #endregion
+            #region Sample
+            #endregion
+            #region Sample
+            #endregion
+            #region Sample
+            #endregion
+            #region Sample
+            #endregion
+            #region Sample
+            #region Sample
+            #endregion
+            #endregion
         }
     }
 }

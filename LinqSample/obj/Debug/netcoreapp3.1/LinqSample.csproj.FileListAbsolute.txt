@@ -1,0 +1,13 @@
+C:\VisualStudio2019\source\repos\Atents_Study\LinqSample\bin\Debug\netcoreapp3.1\LinqSample.exe
+C:\VisualStudio2019\source\repos\Atents_Study\LinqSample\bin\Debug\netcoreapp3.1\LinqSample.deps.json
+C:\VisualStudio2019\source\repos\Atents_Study\LinqSample\bin\Debug\netcoreapp3.1\LinqSample.runtimeconfig.json
+C:\VisualStudio2019\source\repos\Atents_Study\LinqSample\bin\Debug\netcoreapp3.1\LinqSample.runtimeconfig.dev.json
+C:\VisualStudio2019\source\repos\Atents_Study\LinqSample\bin\Debug\netcoreapp3.1\LinqSample.dll
+C:\VisualStudio2019\source\repos\Atents_Study\LinqSample\bin\Debug\netcoreapp3.1\LinqSample.pdb
+C:\VisualStudio2019\source\repos\Atents_Study\LinqSample\obj\Debug\netcoreapp3.1\LinqSample.csproj.AssemblyReference.cache
+C:\VisualStudio2019\source\repos\Atents_Study\LinqSample\obj\Debug\netcoreapp3.1\LinqSample.AssemblyInfoInputs.cache
+C:\VisualStudio2019\source\repos\Atents_Study\LinqSample\obj\Debug\netcoreapp3.1\LinqSample.AssemblyInfo.cs
+C:\VisualStudio2019\source\repos\Atents_Study\LinqSample\obj\Debug\netcoreapp3.1\LinqSample.csproj.CoreCompileInputs.cache
+C:\VisualStudio2019\source\repos\Atents_Study\LinqSample\obj\Debug\netcoreapp3.1\LinqSample.dll
+C:\VisualStudio2019\source\repos\Atents_Study\LinqSample\obj\Debug\netcoreapp3.1\LinqSample.pdb
+C:\VisualStudio2019\source\repos\Atents_Study\LinqSample\obj\Debug\netcoreapp3.1\LinqSample.genruntimeconfig.cache
