@@ -71,6 +71,10 @@ namespace LinqSample
                 group item by item[0];
 
             var result = groupingQuery.GroupBy(x => x[0]);
+            foreach (IGrouping<char, string> item in result)
+            {
+                Console.WriteLine($"{item.Key}");
+            }
             #endregion
             #region Sample
             #endregion
